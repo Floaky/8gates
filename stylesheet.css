@@ -1,0 +1,442 @@
+.menu_2 {
+
+			font-family: Arial;
+			font-size: 15px;
+			color: #080808;
+			margin-left: 20px;
+			margin-top: 50px;
+}
+
+li {
+
+	height: 30px;
+}
+
+
+
+table {
+	width: 100%;
+	height: 50px;
+	    border-collapse: collapse;
+	    text-align: center;
+}
+
+
+
+
+
+
+
+td {
+	height: 100px;
+}
+
+
+th {
+
+	background-color: #F2F2F2;
+	color: #151515;
+}
+
+
+td:hover {background-color:#f5f5f5;}
+
+
+h1{
+
+	font-family:Arial;
+}
+
+
+
+hr{
+
+	color:#ebebe0;
+}
+
+
+.fixed_m{
+
+	position: fixed;
+}
+
+
+
+.menu_v3 li{
+	 	 list-style-type: none;
+}
+
+.img_001:hover{
+opacity: 0.5;
+background-color:#2A0A12;
+
+}
+
+.img_002:hover{
+opacity: 0.5
+
+}
+
+
+.img_003:hover{
+opacity: 0.5
+}
+
+#NewSeason h1{
+	color: #DA9234;
+	font-size: 100px;
+	position: absolute;
+	margin: 110px 0 0 200px;
+}
+
+#NewSeason p{
+	font-family: Arial;
+	color: #8F8D8B;
+	font-size: 18px;
+	position: absolute;
+	margin: 250px 0 0 200px;
+}
+
+.texto_1fila_1 {
+	font-size: 15px;
+	text-align: justify;
+    text-justify: inter-word;
+	margin-left: 300px;
+	font-family: Arial;
+}
+
+.texto_1fila_1 h4{
+	margin-left: 120px;
+}
+
+.texto_1fila_2 {
+	margin-top: -107px;
+	font-size: 15px;
+	text-align: justify;
+    text-justify: inter-word;
+	margin-left: 950px;
+	font-family: Arial;
+}
+
+.texto_1fila_2 h4{
+	margin-left: 120px;
+}
+
+.texto_1fila_3 {
+	margin-top: -107px;
+	font-size: 15px;
+	text-align: justify;
+    text-justify: inter-word;
+	margin-left: 620px;
+	font-family: Arial;
+}
+
+.texto_1fila_3 h4{
+	margin-left: 120px;
+}
+
+.texto_2fila_1 {
+	font-size: 15px;
+	text-align: justify;
+    text-justify: inter-word;
+	margin-left: 300px;
+	font-family: Arial;
+}
+
+.texto_2fila_1 h4{
+	margin-left: 120px;
+}
+
+.texto_2fila_2 {
+	margin-top: -107px;
+	font-size: 15px;
+	text-align: justify;
+    text-justify: inter-word;
+	margin-left: 950px;
+	font-family: Arial;
+}
+
+.texto_2fila_2 h4{
+	margin-left: 120px;
+}
+
+.texto_2fila_3 {
+	margin-top: -107px;
+	font-size: 15px;
+	text-align: justify;
+    text-justify: inter-word;
+	margin-left: 620px;
+	font-family: Arial;
+}
+
+.texto_2fila_3 h4{
+	margin-left: 120px;
+}
+
+
+#imgs img{
+
+	width: 300px;
+	margin: 50px 0 0 20px;
+	
+}
+
+
+#imgs_2 img{
+
+	width: 300px;
+	margin: 50px 0 0 20px;
+	
+}
+
+
+
+
+.menu { 
+
+
+    
+	font-family: Arial;
+	margin: -30px 0 0 0px ;
+	padding: 0;
+	margin-left: 450px;
+	font-size: 15px;
+	display: inline-block;
+    vertical-align: top;
+
+}
+	
+.menu span{
+	margin-left:20px;
+	color: #cdcdb1;
+    
+}
+
+#NewSeason a{
+	color: #8F8D8B;
+	text-decoration: none;
+}
+
+#NewSeason a:hover{
+	color: #DA9234;
+	}
+
+
+
+.menu a{
+	text-decoration: none;
+}
+
+.menu_2 a{
+	color: #1A1A1A;
+	text-decoration: none;
+
+}
+
+.m_calças:hover{
+	color:#A9ADAD;}
+
+.m_vestidos:hover{
+	color:#A9ADAD;}
+
+.m_camisolas:hover{
+	color:#A9ADAD;}
+
+.m_t-shirts:hover{
+	color:#A9ADAD;}
+
+.m_calçado:hover{
+	color:#A9ADAD;}
+
+.m_blusas:hover{
+	color:#A9ADAD;}
+
+
+.m_home:hover{
+	color:#171717;}
+
+
+.m_homem:hover{
+	color:#171717;}
+
+
+.m_criança:hover{
+	color:#171717;}
+
+
+.m_contactos:hover{
+	color:#171717;}
+
+
+
+
+.m_mulher:hover{
+	color:#171717;}
+
+#rectangle {
+
+	margin-top: 80px;
+	 width:100%;
+    height:430px;
+    background:#080808;
+}
+
+.m_calças{
+	color:#080808;}
+
+.m_vestidos{
+	color:#080808;}
+
+.m_camisolas{
+	color:#080808;}
+
+.m_t-shirts{
+	color:#080808;}
+
+.m_calçado{
+	color:#080808;}
+
+.m_blusas{
+	color:#080808;}
+
+
+.m_home{
+	color:#080808;}
+
+
+.m_homem{
+	color:#080808;}
+
+
+.m_criança{
+	color:#080808;}
+
+
+.m_contactos{
+	color:#080808;}
+
+
+
+
+.m_mulher{
+	color:#080808;}
+
+.menu_topo {
+	position: fixed;
+	width: 110%;
+	height: 120px;
+	margin-left: -20px;
+	background-color: white;
+	margin-top: -2%;
+	box-shadow: 0px 0px 13px #D8D8D8
+}
+
+
+hr {
+
+	margin-top: 100px;
+}
+
+
+
+#icons_rodape img{
+	margin-top: 70px;
+	margin-left: 43%;	
+	height: 35px;
+}
+
+
+.rodape_comprar {
+
+	margin-top: 40px;
+	margin-left: 14%;
+	font-family: Arial;
+}
+
+	.rodape_comprar p{
+		color: #A4A4A4;
+		line-height: 5px;
+
+	font-size: 12px;
+}
+
+.rodape_info {
+
+	margin-left: 28%;
+	margin-top: -115px;
+	font-family: Arial;
+}
+
+	.rodape_info p{
+		color: #A4A4A4;
+		line-height: 5px;
+
+	font-size: 12px;
+}
+
+
+.rodape_ajuda {
+
+	margin-left: 50%;
+	margin-top: -132px;
+	font-family: Arial;
+}
+
+	.rodape_ajuda p{
+		color: #A4A4A4;
+		line-height: 5px;
+
+	font-size: 12px;
+}
+
+
+.rodape_newsletter {
+
+	margin-left: 70%;
+	margin-top: -132px;
+	font-family: Arial;
+}
+
+
+.rodape_newsletter p{
+	color: #A4A4A4;
+}
+
+
+#rod_Newsletter_rect {
+
+	line-height: 30px;
+	margin-top: 20px;
+	 width:120px;
+    height:30px;
+    background:white;
+  
+}
+
+
+a{
+	text-decoration: none;
+}
+
+
+
+#rod_Newsletter_rect p:hover{
+	background: #E6E6E6;
+}
+
+
+
+#rod_Newsletter_rect p{
+	vertical-align:middle;
+	text-align: center;
+	color: black;
+}
+
+
+
+
+.rodape{
+	color: white;
+	font-family:Arial;
+	font-size:10px;
+
